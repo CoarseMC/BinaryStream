@@ -1,0 +1,19 @@
+{
+  "name": "coarse-binarystream",
+  "version": "1.0.0",
+  "description": "CoarseMC BinaryStream",
+  "main": "src/BinaryStream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoarseMC/BinaryStream.git"
+  },
+  "author": "MoQi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CoarseMC/BinaryStream/issues"
+  },
+  "homepage": "https://github.com/CoarseMC/BinaryStream#readme"
+}
